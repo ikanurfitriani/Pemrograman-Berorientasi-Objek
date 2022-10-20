@@ -1,5 +1,5 @@
 # Pemrograman Berorientasi Objek
-Repositori ini memuat arsip kode dari mata kuliah Pemrograman Berorientasi Objek di semester 4. Yang mana di dalamnya terdapat bagian tugas yang telah saya kerjakan.
+This repository contains code archives from the Object Oriented Programming course in semester 4. In which there is a part of the assignments that I have done.
 
 ## Author
 [@Ika Nurfitriani](http://github.com/ikanurfitriani)
